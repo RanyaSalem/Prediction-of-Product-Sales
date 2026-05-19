@@ -42,7 +42,7 @@ The Bar Chart showing the number of products available in each category.
 * **Interpretation:** The inventory is unbalanced; there is a heavy emphasis on vegetables, fruits, and snacks, while seafood and breakfast products are very limited..
 ### 4. Feature Correlation(Heatmap)
 <img width="936" height="853" alt="heatmap" src="https://github.com/user-attachments/assets/cf1277cf-0813-46cf-a7f8-284e37096da5" />
-* **Interpretation:** The heatmap reveals a strong positive correlation between an item's Maximum Retail Price (MRP) and its total outlet sales, meaning higher-priced items contribute heavily to overall revenue.
+*  **Interpretation:** The heatmap reveals a strong positive correlation between an item's Maximum Retail Price (MRP) and its total outlet sales, meaning higher-priced items contribute heavily to overall revenue.
 
   
   ## 5. Feature Inspection
